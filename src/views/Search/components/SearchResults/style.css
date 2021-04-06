@@ -1,0 +1,10 @@
+.search-results {
+    background-color: rgb(173, 173, 173);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 700px;
+    margin-top: 20px;
+    
+}
+
